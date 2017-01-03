@@ -84,8 +84,85 @@ sort=xxx
 3. Page
  - **Definition:** The pages visited, listed by URI is the portion of a page's URL following the domain name; for example, the URI portion of www.example.com/contact.html is/contact.html
  
-4. 
+4. Site Search Status
+ - **Definition:** Distinguishes visits that included an internal site search and those that did not
  
-## 
-1. 
- - **Definition:** 
+5. Event Category
+ - **Definition:** The categories that were assigned to triggered events
+ 
+6. Event Action
+ - **Definition:** The actions that were assigned to triggered events
+ 
+7. Event Label
+ - **Definition:** The optional labels used to describe triggered events
+ 
+8. Search Term
+ - **Definition:** The search terms used by visitors to search your site
+ 
+9. Refined Keyword
+ - **Definition:** The search terms used to refine internal searches
+ 
+10. Site Search Category
+ - **Definition:** The categories searched by visitors searching your site
+ 
+11. Landing Page
+ - **Definition:** The pages through which visitors entered your site
+ 
+12. Exit Page
+ - **Definition:** The pages visitors viewed last on your site
+ 
+13. Timing Category
+ - **Definition:** User specified category for user timing
+ 
+14. Timing Label
+ - **Definition:** User specified label for user timing
+ 
+15. Timing Variable
+ - **Definition:** User timing variable
+ 
+##E-commerce
+1. Affiliation
+ - **Definition:** The affiliations assigned to ecommerce transactions
+
+2. Product SKU
+ - **Definition:** The product codes of items sold
+ 
+3. Product
+ - **Definition:** The product names of items sold
+ 
+4. Product Category
+ - **Definition:** The categories of products sold
+
+## Systems
+1. Browser
+ - **Definition:** The browsers used by visitors to your website
+ 
+2. Browser Version
+ - **Definition:** The browser versions used by visitors to your website
+ 
+3. Operating System
+ - **Definition:** The operating systems used by visitors to your website. Includes mobile operating system such as Andriod
+ 
+4. Operating System Version
+ - **Definition:** The operating system versions used by visitors to your website
+ 
+5. Mobile (Including Tablet)
+ - **Definition:** Indicates whether or not visits were from mobile and tablet devices (Yes/No)
+
+6. Flash Version
+ - **Definition:** The versions of Flash supported by visitors' browsers, including minor versions
+ 
+7. Java Support
+ - **Definition:** Differentiates visits from browsers with and without (Yes or No) Java enabled
+ 
+8. Screen Colours
+ - **Definition:** The screen color depths of visitors' monitors
+ 
+9. Screen Resolution
+ - **Definition:** The screen resolutions of visitors' monitors
+ 
+10. Service Provider
+ - **Definition:** The names of the Internet service providers (ISPs) used by visitors to your site
+ 
+11. Network Domain
+ - **Definition:** The fully qualified domain names of your visitors' Internet service providers (ISPs)
